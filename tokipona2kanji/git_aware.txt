@@ -1,0 +1,2 @@
+Pues eso.
+Que este directorio está conectado a git-hub.
